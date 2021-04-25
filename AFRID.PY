@@ -1,60 +1,106 @@
 import colorama
-from colorama import Fore,Back,Style
+from colorama import Fore,Style,Back
 import time
-logo='''
+time.sleep(2)
+V='''
 ███████╗██████╗░
 ██╔════╝██╔══██╗
 █████╗░░██████╦╝
 ██╔══╝░░██╔══██╗
 ██║░░░░░██████╦╝
 ╚═╝░░░░░╚═════╝░
-        CODED BY SHAIK AFRID:)'''
-time.sleep(3)
-print(Fore.RED+Style.BRIGHT+logo)
-time.sleep(3)
-a="LOGIN"
-b="FAKE LOGIN"
-A=input(Fore.YELLOW+Style.BRIGHT+"ENTER UR NAME:-")
-print(Fore.ORANGE+Style.BRIGHT+"HELLO"+A)
-print(Fore.YELLOW+Style.BRIGHT+"a="+a)
-print(Fore.YELLOW+Style.BRIGHT+"b="+b)
-time.sleep(5)
-x=input(Fore.YELLOW+Style.BRIGHT+"SELECT UR OPTION:-")
-if x==a:
-  Z="password"
-  time.sleep(4)
-  print(Fore.YELLOW+Style.BRIGHT+"LOADING...../////")
-  print (Fore.RED+Stle.BRIGHT+"SELECTED LOGIN:)")
-  username=input(Fore.RED+Style.BRIGHT+"ENTER UR USERNAME :-")
-  password==input(Fore.RED+Style.BRIGHT+"ENTER UR PASSWORD:-")
-  if password!=Z:
-    print("SORRY PASSWORD WRONG")
-    time.sleep(3)
-    print(Fore.YELLOE+Style.BRIGHT+"CONACT ADMIN FOR PASSWORD")
-  
+    CODED BY SHAIK AFRID'''   
+print(Fore.YELLOW+Style.BRIGHT+V)
+print(Fore.RED+Style.BRIGHT+"A=LOGIN")
+print(Fore.GREEN+Style.BRIGHT+                       
+print(Fore.RED+Style.BRIGHT+"B=FAKE LOGIN")
+X=input(Fore.GREEN+Style.BRIGHT+"ENTER UR OPTION:-")
+if X==A:
+        U="afrid"
+        p="17030143"
+        s="LOGIN"
+        
+        
+        
+        
+        print(Fore.YELLOW+Style.BRIGHT+"SELECTED LOGIN :)")
+        A=input(Fore.GREEN+Style.BRIGHT+"ENTER USERNAME :-")
+        if A==u:
+                print("sucess")
+                
+        else:
+                print("wrong username")
+        
+        
+        
+        
+        
+        
+        B=input(Fore.GREEN+Style.BRIGHT+"ENTER PASSWORD :-")
+        if B==p:
+                print("sucess")
+        else :
+                
+                print("wrong password")
+        S=input(Fore.YELLOW+Style.BRIGHT+"ENTER HIGH SECURITY KEY:-")
+        if S==s:
+                print("sucess")
+        else :
+                print("wrong")
+        
+        
+        
+        
+                
+                
+        
+        
+        
+        
+
+      
 
 
 
 
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
